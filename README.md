@@ -5,7 +5,7 @@ Ahí aprendí programación en el lenguaje C y un poco de Python, y me di cuenta
 
 👀 Comencé a investigar más sobre el tema, inicié un curso de Full-Stack en Python. Te muestro mi [Proyecto de Frontend](https://tpfinal-frontend-three.vercel.app/), y en la parte de Backend le agregamos un CRUD a esa página.
 
-Me dí cuenta que me encantaba el diseño web, por eso comencé otro curso de Full-Stack en NODE-JS. Pude reforzar mis conocimientos de Front y en este momento estoy aprendiendo a desarrollar el Back en NODE. Como está en curso, te muestro la primer parte de mi [Proyecto Final]([fs-node-codigo-pesca.vercel.app](https://fs-node-codigo-pesca.vercel.app/)).
+Me dí cuenta que me encantaba el diseño web, por eso comencé otro curso de Full-Stack en NODE-JS. Pude reforzar mis conocimientos de Front y en este momento estoy aprendiendo a desarrollar el Back en NODE. Como está en curso, te muestro la primer parte de mi [Proyecto Final](https://fs-node-codigo-pesca.vercel.app/).
 
 ## Conéctate conmigo
 
